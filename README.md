@@ -1,0 +1,2 @@
+# arexamplenewrepo
+Generated Repository
